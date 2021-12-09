@@ -1,6 +1,6 @@
 specVersion: '2.6'
 metadata:
-  name: manual-proj
+  name: fcl_2.0_project
 type: application
 framework:
   name: SAPUI5

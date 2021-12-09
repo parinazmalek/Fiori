@@ -1,7 +1,7 @@
 {
-    "name": "manual-proj",
+    "name": "fcl_2.0_project",
     "version": "1.0.0",
-    "description": "Test manual app steps",
+    "description": "FCL Project",
     "keywords": [
         "ui5",
         "openui5",
@@ -17,7 +17,7 @@
         "start": "fiori run --open 'index.html'",
         "start2": "ui5 serve --config=ui5.yaml  --open index.html"
     },
-    "author": "Valter",
+    "author": "Parinaz",
     "ui5": {
         "dependencies": [
             "@sap/ux-ui5-tooling"
