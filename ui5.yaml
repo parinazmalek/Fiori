@@ -1,0 +1,7 @@
+specVersion: '2.6'
+metadata:
+  name: fcl_2.0_project
+type: application
+framework:
+  name: SAPUI5
+  version: "1.97.0"
